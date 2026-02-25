@@ -65,23 +65,31 @@
 
 ## 📌 Featured Projects
 
-### 📝 NoteVault (Java | JavaFX | Jenkins | Docker | JUnit)
-- Agile Scrum development
-- CI/CD automation with Jenkins
-- Docker containerization
-- Test-driven development & high code coverage
-- Clean modular architecture
+### 📝 [NoteVault](https://github.com/SandipFromPokhara/software-engineering-project)
+**Java | JavaFX | Jenkins | Docker | JUnit**
+- Agile Scrum-based development  
+- CI/CD automation with Jenkins  
+- Docker containerization  
+- Test-driven development & high code coverage  
+- Clean modular architecture  
 
-### 🎟 AI Integrated Event Finder (MERN Stack)
-- AI-powered event discovery system
-- Scalable MongoDB database
-- Full-stack architecture (React, Node.js, Express)
+---
 
-### 🛂 Visa Processing Simulator
-- JavaFX GUI simulation system
-- MariaDB + Hibernate ORM
-- 80%+ test coverage
-- Queue analytics & bottleneck detection
+### 🎟 [AI Integrated Event Finder (UrbanGo)](https://github.com/SandipFromPokhara/UrbanGo-mern)
+**MERN Stack | MongoDB | React | Node.js | Express**
+- AI-powered event discovery platform  
+- Scalable MongoDB database architecture  
+- Intelligent recommendation logic  
+- Real-time ticket interaction system  
+
+---
+
+### 🛂 [Visa Processing Simulator](https://github.com/GamAungLahpai/migri_visa_process_simulator)
+**Java | JavaFX | Hibernate ORM | MariaDB | JUnit**
+- Queue management simulation system  
+- Persistent storage using MariaDB + JPA/Hibernate  
+- 80%+ unit test coverage  
+- Bottleneck detection & process analytics  
 
 ---
 
