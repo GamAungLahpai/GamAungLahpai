@@ -23,8 +23,7 @@ I have experience across full-stack development, backend systems, and DevOps pra
 
 ## Portfolio
 
-- Personal Website: https://your-website-link  
-- GitHub Projects: https://github.com/GamAungLahpai  
+- Personal Website: https://gamaung.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/twe-he-gam-aung-57a380254/
 
 ---
