@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Twe He Gam Aung</h1>
+<h1 align="center">Hi, I'm Gam </h1>
 <h3 align="center">Software Engineering Student | Machine Learning Focus | Systems-Oriented Developer</h3>
 
 ---
