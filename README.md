@@ -23,8 +23,14 @@ I have experience across full-stack development, backend systems, and DevOps pra
 
 ## Portfolio
 
-- Personal Website: https://gamaung.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/twe-he-gam-aung-57a380254/
+<p align="left">
+<a href="https://gamaung.vercel.app/" target="_blank">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="30" height="30"/>
+</a>
+<a href="https://www.linkedin.com/in/twe-he-gam-aung-57a380254/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/>
+</a>
+</p>
 
 ---
 
@@ -63,7 +69,7 @@ I have experience across full-stack development, backend systems, and DevOps pra
 
 ## Featured Projects
 
-### NoteVault  
+### <a href="https://github.com/SandipFromPokhara/software-engineering-project" target="_blank">NoteVault</a>  
 Java | JavaFX | Jenkins | Docker | JUnit  
 - Developed a note management system with a focus on **DevOps and CI/CD automation**  
 - Implemented **Jenkins pipelines, Docker containerization, and automated testing**  
@@ -71,7 +77,7 @@ Java | JavaFX | Jenkins | Docker | JUnit
 
 ---
 
-### UrbanGo – City Events & Transport Application  
+### <a href="https://github.com/SandipFromPokhara/UrbanGo-mern" target="_blank">UrbanGo – City Events & Transport Application</a>  
 MERN Stack | MongoDB | React | Node.js | Express  
 - Built a full-stack web application integrating **real-time APIs and external services**  
 - Designed **scalable database structure and REST APIs**  
@@ -79,7 +85,7 @@ MERN Stack | MongoDB | React | Node.js | Express
 
 ---
 
-### Visa Processing Simulator  
+### <a href="https://github.com/GamAungLahpai/migri_visa_process_simulator" target="_blank">Visa Processing Simulator</a>  
 Java | JavaFX | Hibernate | MariaDB | JUnit  
 - Developed a simulation system to model **visa processing workflows**  
 - Designed **database schema and persistence layer using JPA/Hibernate**  
@@ -90,5 +96,3 @@ Java | JavaFX | Hibernate | MariaDB | JUnit
 ## Contact
 
 Email: gamt@metropolia.fi  
-LinkedIn: https://www.linkedin.com/in/twe-he-gam-aung-57a380254/
-Phone: +358442494505
