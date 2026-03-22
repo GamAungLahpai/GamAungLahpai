@@ -1,35 +1,35 @@
-<h1 align="center">Hi 👋, I'm Gam Aung</h1>
-<h3 align="center">Software Engineering & Machine Learning Student | DevOps-Oriented Builder</h3>
+<h1 align="center">Hi, I'm Twe He Gam Aung</h1>
+<h3 align="center">Software Engineering Student | Machine Learning Focus | Systems-Oriented Developer</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 IT student majoring in Machine Learning at Metropolia University of Applied Sciences (Finland)  
+I am a Software Engineering student at Metropolia University of Applied Sciences (Finland), specializing in Machine Learning.
 
-💡 Passionate about building scalable backend systems, automation pipelines, and AI-powered applications  
+I focus on building practical systems and improving through hands-on development. My interests lie in designing scalable applications, working with structured data, and applying machine learning concepts to real-world problems.
 
-⚙️ Strong interest in:
-- Platform Engineering
-- Cloud & DevOps
-- Clean Architecture & System Design
-- AI-assisted development
-
-🧠 Mindset:
-> If it can be automated, I automate it.  
-> If it can be optimized, I improve it.
+I have experience across full-stack development, backend systems, and DevOps practices, and I am continuously developing toward data engineering and machine learning roles.
 
 ---
 
-## 🔭 Currently Working On
+## Currently
 
-- 📝 **NoteVault** – Software Engineering project with CI/CD, Docker & Test Automation  
-- 🌱 Learning **Design Patterns, Advanced Database Solutions & DevOps**
-- 📚 Strengthening Data Structures & Algorithms
+- Learning **Machine Learning Specialization (Andrew Ng, Coursera)**
+- Building systems with **clean architecture and structured design**
+- Strengthening knowledge in **data processing, algorithms, and system design**
 
 ---
 
-## 🛠 Languages & Tools
+## Portfolio
+
+- Personal Website: https://your-website-link  
+- GitHub Projects: https://github.com/GamAungLahpai  
+- LinkedIn: https://www.linkedin.com/in/twe-he-gam-aung-57a380254/
+
+---
+
+## Technical Skills
 
 <p align="left">
 
@@ -47,7 +47,6 @@
 <!-- DevOps -->
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 
 <!-- Database -->
@@ -63,49 +62,34 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📝 [NoteVault](https://github.com/SandipFromPokhara/software-engineering-project)
-**Java | JavaFX | Jenkins | Docker | JUnit**
-- Agile Scrum-based development  
-- CI/CD automation with Jenkins  
-- Docker containerization  
-- Test-driven development & high code coverage  
-- Clean modular architecture  
+### NoteVault  
+Java | JavaFX | Jenkins | Docker | JUnit  
+- Developed a note management system with a focus on **DevOps and CI/CD automation**  
+- Implemented **Jenkins pipelines, Docker containerization, and automated testing**  
+- Applied **clean architecture and modular design principles**
 
 ---
 
-### 🎟 [AI Integrated Event Finder (UrbanGo)](https://github.com/SandipFromPokhara/UrbanGo-mern)
-**MERN Stack | MongoDB | React | Node.js | Express**
-- AI-powered event discovery platform  
-- Scalable MongoDB database architecture  
-- Intelligent recommendation logic  
-- Real-time ticket interaction system  
+### UrbanGo – City Events & Transport Application  
+MERN Stack | MongoDB | React | Node.js | Express  
+- Built a full-stack web application integrating **real-time APIs and external services**  
+- Designed **scalable database structure and REST APIs**  
+- Contributed to **UI development and system integration**
 
 ---
 
-### 🛂 [Visa Processing Simulator](https://github.com/GamAungLahpai/migri_visa_process_simulator)
-**Java | JavaFX | Hibernate ORM | MariaDB | JUnit**
-- Queue management simulation system  
-- Persistent storage using MariaDB + JPA/Hibernate  
-- 80%+ unit test coverage  
-- Bottleneck detection & process analytics  
+### Visa Processing Simulator  
+Java | JavaFX | Hibernate | MariaDB | JUnit  
+- Developed a simulation system to model **visa processing workflows**  
+- Designed **database schema and persistence layer using JPA/Hibernate**  
+- Analyzed system performance to identify **processing bottlenecks and inefficiencies**
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
-<p align="left">
-<a href="https://www.linkedin.com/in/twe-he-gam-aung-57a380254/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://github.com/GamAungLahpai" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
-</a>
-</p>
-
-📧 Email: gamt@metropolia.fi  
-
----
-
-⭐ Always building. Always improving.
+Email: gamt@metropolia.fi  
+LinkedIn: https://www.linkedin.com/in/twe-he-gam-aung-57a380254/
+Phone: +358442494505
