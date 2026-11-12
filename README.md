@@ -33,7 +33,6 @@ Before entering software engineering, I worked in social science research, gaini
 - **AI Agents & LLM Applications** — LangChain, tool calling, MCP, RAG
 - **Data Science & Statistics** — Statistical modelling, time series analysis, data processing
 - **Backend Engineering** — Python, Java, REST APIs, databases, software architecture
-- **Software Delivery** — Testing, Docker, Jenkins, CI/CD
 - **Research Interests** — Applied machine learning, NLP, and low-resource language technologies
 
 ---
@@ -48,7 +47,7 @@ Before entering software engineering, I worked in social science research, gaini
 
 **Libraries:** NumPy, Pandas, Matplotlib, scikit-learn, PyTorch, TensorFlow
 
-**Concepts:** Supervised Learning, Neural Networks, Feature Engineering, Model Evaluation, Statistical Analysis, Time Series
+**Concepts:** Supervised Learning, Unsupervised Learning, Neural Networks, Feature Engineering, Model Evaluation, Statistical Analysis, Time Series
 
 ### Generative AI & Agentic Systems
 
@@ -150,21 +149,6 @@ A desktop note-management application developed with an emphasis on maintainable
 - Worked collaboratively using Agile development practices.
 
 **Key Concepts:** OOP, Design Patterns, Testing, DevOps, CI/CD
-
----
-
-### 📊 House Price Prediction & Feature Analysis
-
-**Python | Pandas | NumPy | scikit-learn | Matplotlib**
-
-A machine learning project covering data preprocessing, feature analysis, regression modelling, and evaluation.
-
-- Built a pipeline for data cleaning and feature engineering.
-- Trained and compared Linear Regression and Ridge Regression models.
-- Evaluated model performance using RMSE and R².
-- Achieved approximately **0.883 R²** in model evaluation.
-
-**Key Concepts:** Regression, Feature Engineering, Data Analysis, Model Evaluation
 
 ---
 
